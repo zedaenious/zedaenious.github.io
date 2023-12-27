@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Setting up my Jekyll blog
+title: Jekyll Blog Engine & Jekyll Plugins
+date: 2023-12-27 02:50 -0500
 ---
 
-## December 26, 2023
+## site.time
 
 It seems logical to keep the blog as close to my repo as possible. Any distance only adds to the likelihood of not getting updates, which has killed every dev blog I've ever used.
 
@@ -56,4 +57,5 @@ I need to actually build the site after customizing the default landing page for
 *********************************************(**********************************
 *********************************************,,*********************************
 *********************************************,,*********************************
+
 
